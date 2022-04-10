@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+  font-family: samsung400;
+  src: url(./Font/SamsungOne-400.ttf);
+}
+
+@font-face {
+  font-family: samsung700;
+  src: url(./Font/SamsungOne-700.ttf);
+}
+
+
+@font-face {
+  font-family: SamsungSharpSans;
+  src: url(./Font/SamsungSharpSans-Bold.ttf);
+}
