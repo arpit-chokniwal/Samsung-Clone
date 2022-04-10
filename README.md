@@ -1,13 +1,13 @@
 # Samsung-Clone
 
-Backend API for a samsung [https://github.com/HarshalGhutkule/Samsung-Backend.git]
+Backend API for a samsung [https://github.com/fabpot11/Samsung-Clone-BackEnd.git]
 
 Samsung helps you discover a wide range of home electronics with cutting-edge technology including smartphones, tablets, TVs, home appliances and more.
 A collaborative project built by a team of 5 executed in 5 days.
 
 ## How to run the app?
 - Clone the repo and run the app.
-    - https://github.com/HarshalGhutkule/Samsung-Clone.git
+    - https://github.com/fabpot11/Samsung-Clone.git
 - Execute `npm start` command in your CLI, and enjoy exploring different technical courses on the go. Happy Learning!
 ## Built with
 - React
@@ -39,11 +39,11 @@ A collaborative project built by a team of 5 executed in 5 days.
 - Functionality to buy a Item
 - Functionality to view Item Details
 
+
 ## Team Members
 - [Arpit Chokniwal](https://github.com/fabpot11)
-- [Ritesh Kamthe](https://github.com/riteshjk)
-- [Hemant Ahire](https://github.com/Hemantfw13)
-- [Birendra Gupta](https://github.com/birendra20)
+- [Harshal Ghutkule](https://github.com/HarshalGhutkule)
+
 
 
 ![Logo](https://images.samsung.com/is/image/samsung/assets/in/about-us/brand/logo/mo/360_197_1.png?$FB_TYPE_B_PNG$)
